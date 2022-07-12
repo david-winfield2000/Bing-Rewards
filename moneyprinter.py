@@ -3,7 +3,8 @@ import string
 import random
 import os
 import time
-import winreg
+
+time.sleep(30)
 
 edge = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 
